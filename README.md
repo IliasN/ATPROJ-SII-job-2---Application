@@ -7,3 +7,5 @@ Un langage compilé, c'est un langage qui est, avant de pouvoir l'executer, trad
 4. Qu'est-ce qu'un fichier binaire
 Un fichier binaire est un fichier qui n'est pas un fichier texte. Un fichier binaire ne peut pas etre interprété en texte.
 5. Langage d'assemblage
+Un langage d'assemblage ou langage assembleur est, en programmation informatique, un langage de bas niveau qui représente le langage machine sous une forme lisible par un humain. Les combinaisons de bits du langage machine sont représentées par des symboles dits « mnémoniques » (du grec mnêmonikos, relatif à la mémoire), c'est-à-dire faciles à retenir. Le programme assembleur convertit ces mnémoniques en langage machine en vue de créer par exemple un fichier objet ou un fichier exécutable.
+6. 
